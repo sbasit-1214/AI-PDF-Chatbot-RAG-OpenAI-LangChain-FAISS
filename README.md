@@ -2,6 +2,8 @@
 The application extracts and chunks PDF content, creates a vector knowledge base, retrieves relevant information through semantic search, and generates contextual answers using OpenAI. Implemented PostgreSQL authentication, role-based Admin/User access, Streamlit UI, and Docker-based database infrastructure.
 
 <img width="1597" height="812" alt="Login Page" src="https://github.com/user-attachments/assets/aa6b4d5e-572f-4d5d-8bcd-54f18b846a21" />
+<img width="1593" height="768" alt="Admin Page" src="https://github.com/user-attachments/assets/af1356ec-aeca-4c7e-8a71-022ce536d7f1" />
+
 # AI PDF Chatbot with Role-Based Authentication
 
 ## Overview
