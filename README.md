@@ -1,6 +1,7 @@
 # AI-PDF-Chatbot-RAG-OpenAI-LangChain-FAISS
 The application extracts and chunks PDF content, creates a vector knowledge base, retrieves relevant information through semantic search, and generates contextual answers using OpenAI. Implemented PostgreSQL authentication, role-based Admin/User access, Streamlit UI, and Docker-based database infrastructure.
 
+<img width="1597" height="812" alt="Login Page" src="https://github.com/user-attachments/assets/aa6b4d5e-572f-4d5d-8bcd-54f18b846a21" />
 # AI PDF Chatbot with Role-Based Authentication
 
 ## Overview
